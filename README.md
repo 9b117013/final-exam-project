@@ -17,7 +17,7 @@ final-exam-project/
 ├── gui.py           # 前端介面 (Tkinter)
 ├── quotes.db        # 資料庫 (由 pacho.py 產生)
 ├── requirements.txt # 套件依賴清單
-├── README.md        # 專案說明 (本檔案)
+├── README.md        # 專案說明與操作截圖
 ├── .gitignore       # Git 忽略清單
 ├── LICENSE          # 授權條款
 └── img/             # 成果截圖資料夾
@@ -162,3 +162,4 @@ python gui.py
 ## 授權
 
 MIT License
+
